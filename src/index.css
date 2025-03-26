@@ -3,6 +3,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-family: 'Orbitron Variable', sans-serif;
 }
 
 #root {
@@ -15,4 +16,11 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Orbitron Variable';
+  src: url('./assets/fonts/Orbitron-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
 }
