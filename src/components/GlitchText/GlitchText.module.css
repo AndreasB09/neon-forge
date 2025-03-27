@@ -1,0 +1,10 @@
+.glitch {
+    display: inline-block;
+    color: #0ff;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.glitch span {
+    display: inline-block;
+}

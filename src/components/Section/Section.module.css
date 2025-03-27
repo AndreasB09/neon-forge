@@ -22,3 +22,16 @@ h2, p {
     max-width: 300px;
     text-align: left;
 }
+
+.glitch {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #0ff;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    display: inline-block;
+}
+  
+.glitch span {
+    display: inline-block;
+}
